@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Harbinger-of-Death/Util#readme",
   "dependencies": {
-    "node-fetch": "^3.2.3"
+    "node-fetch": "^2.6.7"
   }
 }
